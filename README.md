@@ -1,6 +1,6 @@
 # wordtranslator
 
-> Learning Vue JS
+> Learning Vue JS along using Yandex API to translate word.
 
 ## Build Setup
 
