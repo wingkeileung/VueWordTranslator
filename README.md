@@ -3,6 +3,11 @@
 > Learning Vue JS along using Yandex API to translate word.
   Up to 90 languages supported!
 
+# Screenshots
+
+![](https://github.com/wingkeileung/VueWordTranslator/blob/master/screenshot/ss1.png "Screenshot of the app")
+![](https://github.com/wingkeileung/VueWordTranslator/blob/master/screenshot/ss1.png "Language Selector")
+
 # Dependencies
 
   - Vue 2.5.2,
