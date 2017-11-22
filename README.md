@@ -6,7 +6,7 @@
 # Screenshots
 
 ![](https://github.com/wingkeileung/VueWordTranslator/blob/master/screenshot/ss1.png "Screenshot of the app")
-![](https://github.com/wingkeileung/VueWordTranslator/blob/master/screenshot/ss1.png "Language Selector")
+![](https://github.com/wingkeileung/VueWordTranslator/blob/master/screenshot/ss2.png "Language Selector")
 
 # Dependencies
 
