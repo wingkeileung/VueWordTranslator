@@ -5,9 +5,9 @@
 
 # Dependencies
 
-Vue 2.5.2
-Vue-resource 1.3.4
-Vue-router 3.0.1
+  - Vue 2.5.2,
+  - Vue-resource 1.3.4,
+  - Vue-router 3.0.1
 
 
 ## Build Setup
